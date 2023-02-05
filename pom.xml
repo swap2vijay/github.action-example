@@ -36,5 +36,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalname>springboot-app-image</finalname>
 	</build>
 </project>
